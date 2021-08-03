@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    padding: 20px;
+}
+
+#num1-el,
+#num2-el,
+#sum-el {
+    border-bottom: 1px solid black;
+}
+
+button {
+    
+}
