@@ -1,6 +1,6 @@
 // Define numbers
-let num1 = 8;
-let num2 = 2;
+let num1 = 12;
+let num2 = 8;
 // Getting elements using Dom manipulation
 document.getElementById("num1-el").textContent = num1;
 document.getElementById("num2-el").textContent = num2;
