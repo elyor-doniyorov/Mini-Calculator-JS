@@ -1,7 +1,7 @@
 # Mini-Calculator-JS
 
 > This is to do list app.
-![screenshot](./pexels.jpeg)
+![screenshot](./screenshot.png)
 
 Here you can add, subrtact, divide and multiply numbers using this Mini Calculator.
 
